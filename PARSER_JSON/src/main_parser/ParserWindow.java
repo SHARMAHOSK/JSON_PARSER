@@ -13,6 +13,7 @@ import java.awt.event.ActionEvent;
 import java.awt.Color;
 import javax.swing.JTextArea;
 
+
 public class ParserWindow {
 
 	private JFrame frmJsonParser;
@@ -22,7 +23,7 @@ public class ParserWindow {
 	private File location;
 
 	/**
-	 * Launch the application.
+	 * Launch the application....
 	 */
 	public static void main(String[] args) {
 		try {
